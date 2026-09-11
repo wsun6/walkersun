@@ -9,46 +9,10 @@ labels:
   - Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+I don't have any strong feelings about programming languages in particular. In my experience, all of them are powerful and it doesn't really matter which one you learn because they can all do everything that you need. TypeScript falls under this category as another language that is nice to have some experience with, especially due to its similarities with JavaScript. It does have some differences that don't really affect the programming experience, as it just requires some extra work to learn the proper methodology.
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+In terms of engineering, the format requires some planning due to being a top down style. It is important to know what you need to do beforehand, and it sometimes feels beneficial to spend more time laying things out instead of typing. I sometimes found myself digging a hole that leads to nowhere, when I could have taken a step back and restarted with a difference approach.
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+As with all skills, practice was an absolute necessity to learning something new. Doing some practice exercises before quizzes or splitting up a larger assignment into multiple smaller tasks helped immensely. Whenever a task seems daunting, breaking it down into more digestible parts helped me get my footing and find something to work on. This process is a lot more involved than more traditional learning, and has its pros and cons. It can be easier to find yourself stuck when there isn't a clear direction, but doing the successful practice is hard to replace.
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
-
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
-
-Here's what I think: the difficult things will always be difficult.
-
-## In the context of programming
-
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+Overall, learning the basics of TypeScript over the past few weeks has been relatively enjoyable. Connecting the new pieces of knowledge with previous experience with other languages helped a lot, and I imagine that it would be pretty difficult without any prior knowledge. In that regard, programming languages are different as some are easier to read and understand. For some audiences, TypeScript might be a lot to look at, but if you know what to look for, it can provide more insight into how the program works.
