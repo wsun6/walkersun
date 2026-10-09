@@ -10,7 +10,8 @@ labels:
   - Learning
 ---
 
-<img width="3820" height="1957" alt="Screenshot_2026-10-06_232042" src="https://github.com/user-attachments/assets/f54cc901-96ef-47b6-9420-19bf01f01bb4" />
+<img width="600" height="1200" alt="Screenshot_2026-10-06_232042" src="https://github.com/user-attachments/assets/f54cc901-96ef-47b6-9420-19bf01f01bb4" />
+*A web page I built using Bootstrap 5 based on the Arrowhead Games website*
 
 Although HTML and CSS provide everything needed to build a website, frameworks like Bootstrap 5 offer several advantages that make web development faster and more efficient. Learning Bootstrap can initially be frustrating because developers must understand its classes, components, and layout system. However, the time invested can pay off by reducing repetitive work and simplifying the development process.
 
