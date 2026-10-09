@@ -10,6 +10,7 @@ labels:
   - Learning
 ---
 
+![Image description](Screenshot_2026-10-06_232042.png)
 
 Although HTML and CSS provide everything needed to build a website, frameworks like Bootstrap 5 offer several advantages that make web development faster and more efficient. Learning Bootstrap can initially be frustrating because developers must understand its classes, components, and layout system. However, the time invested can pay off by reducing repetitive work and simplifying the development process.
 
